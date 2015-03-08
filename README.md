@@ -39,6 +39,10 @@ localhost:4567/
 
 Enter in the dimensions for the length, width and height of a parcel, as
 well as the parcel weight. Next, click on the Go! button for the results.
+Finally, regarding the formula used for calculating the shipping cost, if
+either the volume is greater than or equal to 20.0 cubic inches or the
+weight is greater than or equal to 5.0 pounds, the cost is $5.00. Otherwise,
+the cost is $2.00.
 
 Known Bugs
 ----------
